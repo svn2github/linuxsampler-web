@@ -1,5 +1,12 @@
 <?xml version='1.0' ?>
 <news>
+  <entry date="2017-07-20">
+    You are working with <link ref="http://muse-sequencer.org">MusE</link>?
+    Then Andrew Coughlan's <link ref="http://doc.linuxsampler.org/lscp2idf">lscp2idf scripts</link>
+    might help you to automatically extract MIDI instruments from LSCP files to
+    the MusE sequencer's IDF format, which can be helpful for patches changes
+    in that sequencer.
+  </entry>
   <entry date="2017-03-05">
     Services are back online. After reviewing the recent server incident we
     came to the conclusion that the attack was fortunately quite limited.
